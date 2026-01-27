@@ -1,0 +1,94 @@
+\# 🎬 Cinema Analytics Project
+
+
+
+\## 📌 Project Overview
+
+This project analyzes cinema operations and sales data to evaluate performance,
+
+identify peak hours, and support business decision-making.
+
+
+
+\## 🎯 Objectives
+
+\- Analyze ticket sales and revenue
+
+\- Measure hall occupancy rates
+
+\- Identify peak screening hours
+
+\- Prepare data for BI dashboards
+
+
+
+\## 🗄️ Data
+
+The dataset simulates real cinema operations and includes:
+
+\- Movies
+
+\- Halls and capacity
+
+\- Screening schedules
+
+\- Ticket sales
+
+
+
+\## 🛠️ Tools \& Technologies
+
+\- MySQL
+
+\- SQL
+
+\- Power BI (planned)
+
+\- GitHub
+
+
+
+\## 📊 Key Metrics
+
+\- Tickets sold
+
+\- Revenue
+
+\- Hall occupancy rate
+
+\- Peak hours
+
+
+
+\## 📁 Project Structure
+
+Cinema\_Analytics\_Project/
+
+├── sql/
+
+├── data/
+
+├── powerbi/
+
+├── docs/
+
+
+
+
+
+\## 🚀 Next Steps
+
+\- Build Power BI dashboard
+
+\- Add time-based analysis
+
+\- Improve data model
+
+
+
+\## 👤 Author
+
+Vadym Parshyn
+
+
+
