@@ -22,6 +22,16 @@ identify peak hours, and support business decision-making.
 
 
 
+\## 📈 Key Insights
+
+\- Identified the most profitable movies by revenue
+
+\- Analyzed hall occupancy rates to evaluate capacity usage
+
+\- Determined peak screening hours for scheduling optimization
+
+
+
 \## 🗄️ Data
 
 The dataset simulates real cinema operations and includes:
@@ -74,6 +84,12 @@ Cinema\_Analytics\_Project/
 
 
 
+\## 📌 Status
+
+Completed SQL analysis phase.
+
+Power BI dashboard development in progress.
+
 
 
 \## 🚀 Next Steps
@@ -89,6 +105,4 @@ Cinema\_Analytics\_Project/
 \## 👤 Author
 
 Vadym Parshyn
-
-
 
